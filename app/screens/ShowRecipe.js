@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { View, StyleSheet, ScrollView, Image, Button, TextInput } from 'react-native';
 import { Card, ListItem, Avatar, Icon } from 'react-native-elements'
 
-let baseURL = 'http://localhost:8000';
+let baseURL = 'https://cook-it-backend.herokuapp.com';
 
 export default class ShowRecipe extends Component {
     constructor(props) {
