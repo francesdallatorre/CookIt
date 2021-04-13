@@ -62,14 +62,6 @@ Cook It is a full-stack application built to get recipes from the edamam API, sa
 | Show         | /recipes/:id/      | `GET`    |
 | Delete       | /recipes/:id/      | `Delete` |
 
-- **Sample body for `POST` to `/entries/`**
-
-```javascript
-{           title: "today was an amazing day",
-            entry: "Lorem ipsum dolor sit amet, id unum similique ius. Pro ex inermis fastidii patrioque, mei ex wisi interpretaris. Vel ad tritani dissentias. Brute modus aperiri ei mea, te ius tation argumentum. Nec velit assum aperiri an",
-            emoji: "🤪"
-        }
-```
 
 ## New Technology
 
