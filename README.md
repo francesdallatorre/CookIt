@@ -20,7 +20,7 @@ Cook It is a full-stack application built to get recipes from the edamam API, sa
 
 ### Styles
 
-- **BootStrap**
+- **React Native Elements**
 
 ## Server API Requests
 
@@ -86,15 +86,6 @@ Uploading Images
 
 Open [http://localhost:3000](http://localhost:3000) to view your local app in the browser. The page will reload if you make edits.
 
-## To deploy
-
-- `heroku create your-app-name`
-- `heroku config:set MONGODB_URL=<insertYourAtlasDbUri>`
-- `git push heroku master`
-
-## Link to APP
-
-- link
 
 ## Author
 
